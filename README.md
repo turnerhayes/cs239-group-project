@@ -1,6 +1,7 @@
-# CS239 Group Project
+# CS239 Group Final Project
 
 Authors: Turner Hayes, Adrien Amblard, Xamier Ferran
+
 Spring 2025
 
 ## Running the code
