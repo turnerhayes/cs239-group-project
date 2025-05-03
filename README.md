@@ -6,7 +6,7 @@ Spring 2025
 
 *Motivation:* AI image generators are being used to generate images equivalent to an input image but in another style (e.g. Disney, Simpsons, Studio Ghibli…). But, they don’t always capture everything important in the input image, even beyond any changes that come from the shift in style. How do we quantify the loss of information from this generation?
 
-*Project Overview:* This project investigates how artistic restyling of generative AI alters the original image content, particularly in human-centered contexts. Ten images across five categories were restyled in the styles of Studio Ghibli and The Simpsons using ChatGPT, and compared to the originals using KL divergence, a CNN-based cosine similarity, and GPT-4 as a judging LLM. The study explores both the creative possibilities and ethical concerns of AI-generated image transformations.
+*Project Overview:* This project investigates how artistic restyling of generative AI alters the original image content, particularly in human-centered contexts. Nine images across five categories were restyled in the styles of Studio Ghibli and The Simpsons using ChatGPT, and compared to the originals using KL divergence, a CNN-based cosine similarity, and GPT-4 as a judging LLM. The study explores both the creative possibilities and ethical concerns of AI-generated image transformations.
 
 ## Running the code
 
